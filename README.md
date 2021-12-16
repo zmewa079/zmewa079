@@ -6,11 +6,9 @@ I am a software engineer located in Brooklyn, NY. I enjoy discovering new techno
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api"  alt="css-in-readme">
 </div>
- 
-## Contact 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/zannatul-mewa/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 
+## Contact 
+![https://www.linkedin.com/in/zannatul-mewa/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
