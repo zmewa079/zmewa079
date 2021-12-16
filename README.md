@@ -1,4 +1,6 @@
-[![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmewa079)](https://github.com/zmewa079/github-readme-stats)
+[![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmewa079&theme=material-palenight&show_icons=true)](https://github.com/zmewa079/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmewa079&layout=compact&theme=material-palenight)](https://github.com/zmewa079/github-readme-stats)
+
 
 <!--
 **zmewa079/zmewa079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
