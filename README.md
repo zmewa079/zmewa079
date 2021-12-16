@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Zannatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmewa079)](https://github.com/zmewa079/github-readme-stats)
 
 <!--
 **zmewa079/zmewa079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
